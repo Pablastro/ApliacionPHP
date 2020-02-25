@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Formulario de login</title>
+		<meta charset = "UTF-8">
+		<link rel="stylesheet" type="text/css" href="una_sola_pagina.css">
+	</head>	
+	<body>		
+		<section id = "login">
+			<section id = "home">
+				<form onsubmit="return login()" method = "POST" name="entrada">
+					Usuario	<input id = "correo" name = "correo" type = "text">			
+					Clave	<input id = "clave" name = "clave" type = "password">					
+					<input type = "submit">
+				</form>
+				<a href="#" onclick="olvidadaFormu(claveOlvidada);">¿Contraseña Olvidada?</a>
+				<a href="#" onclick="nuevoUsuFormulario();">Registro Nuevo Usuario</a>
+			</section>
+			<section id = "contraseña" style="display:none">
+			</section>
+			<section id = "nuevousu" style="display:none">
+			</section>
+		</section>
+		<section id = "principal" style="display:none">
+            <header id = "cabezera">
+                <span id="cab_usuario"></span>
+                <a href="#" onclick="mostrarTabla()">Recibidos</a>
+				<a href="#" onclick="cargarUsuarios();">Redactar</a>
+				<a href="#" onclick="amistad();">Amigos</a>
+				<a href="#" onclick="cerrarSesionUnaPagina();">Cerrar sesión</a>
+				<a href="#" id="usuario" onclick="cargarPerfil()"></a>
+            </header>
+            <hr>
+			<h2 id = "titulo"></h2>
+			<section id = "contenido">	
+			</section>	
+			<h2 id = "mensaje_titulo"></h2>
+			<section id = "mensaje">			
+			</section>			
+		</section>
+		<script type = "text/javascript" src = "../JS/recibidos.js"></script>
+		<script type = "text/javascript" src = "../JS/cargarFormularios.js"></script>
+		<script type = "text/javascript" src = "../JS/enviarMensaje.js"></script>
+		<script type = "text/javascript" src = "../JS/sesion.js"></script>
+		<script type = "text/javascript" src = "../JS/enlaces_login.js"></script>
+		<script type = "text/javascript" src = "../JS/perfil.js"></script>
+		<script type = "text/javascript" src = "../JS/amistad.js"></script>
+	</body>
+</html>
