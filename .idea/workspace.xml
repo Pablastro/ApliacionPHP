@@ -81,17 +81,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="segundo-comit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1582728196076">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1582731606753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582728196076" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582731606753" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1582654432228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582654432228" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582728208757">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582731643800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582728208757" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582731643800" />
+    <state x="452" y="48" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1582731663216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="48" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.0.1536.824@0.0.1536.824" timestamp="1582731663216" />
   </component>
 </project>
