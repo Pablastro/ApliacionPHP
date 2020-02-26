@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3cd2828-e8b7-4876-bd67-e348ac1eeeb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3cd2828-e8b7-4876-bd67-e348ac1eeeb6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -57,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582728197601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comit-al-fork">
+      <created>1582731608128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582731608128</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comit-al-fork">
+      <created>1582731721632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582731721632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,20 +90,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="segundo-comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="segundo-comit" />
+    <MESSAGE value="comit-al-fork" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit-al-fork" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1582728196076">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1582731776352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582728196076" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582731776352" />
+    <state x="544" y="273" key="Github.CreatePullRequestDialog" timestamp="1582731874085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="273" key="Github.CreatePullRequestDialog/0.0.1536.824@0.0.1536.824" timestamp="1582731874085" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1582654432228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582654432228" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582728208757">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582731784382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582728208757" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582731784382" />
+    <state x="545" y="192" key="git4idea.merge.GitMergeDialog" timestamp="1582731909751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="192" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1582731909751" />
+    <state x="573" y="255" key="git4idea.rebase.GitRebaseDialog" timestamp="1582731829920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="255" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1582731829920" />
   </component>
 </project>
